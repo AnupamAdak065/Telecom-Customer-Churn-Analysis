@@ -34,7 +34,7 @@ Key Features:
  -Support: Number of Administrative and Technical Tickets.
  -Target Variable: Churn (Yes/No).
 
- 🔗 [Data Link](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
+ 🔗 [Data Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 <h2><a class="anchor" id="Tools"></a>3. Tools & Technologies</h2>
@@ -97,9 +97,9 @@ Customer Support Enhancements
 <h2><a class="anchor" id="dashboard"></a>7. Dashboard Previews</h2>
 
 ### 1️⃣ Overall Customer Dashboard
-![Telecom - All Customers Dashboard](Dashboard\All Customers Dashboard.jpg)
+![Telecom - All Customers Dashboard](Dashboard/All_Customers_Dashboard.jpg)
 ### 2️⃣ Churned Customers Dashboard
-![Churn Customer Dashboard](Dashboard\Churned Customer Overview.jpg)
+![Churn Customer Dashboard](Dashboard/Churned_Customer_Overview.jpg)
 
 ---
 <h2><a class="anchor" id="conclution"></a>8. Conclusion</h2>
