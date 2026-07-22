@@ -8,7 +8,7 @@
 - <a href="#observation">Detailed Observations</a>
 - <a href="#recommendation">Recommendations</a>
 - <a href="#dashboard">Dashboard Previews</a>
-- <a href="#conclution">Conclution</a>
+- <a href="#conclusion">Conclusion</a>
 
 
 ---
