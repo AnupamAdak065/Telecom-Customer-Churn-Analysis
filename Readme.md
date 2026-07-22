@@ -48,10 +48,15 @@ Key Features:
 <h2><a class="anchor" id="kpis"></a>4. Key Calculations & KPIs</h2>
 
  -Total Customers: 7,043
+
  -Churned Customers: 1,868
+
  -Churn Rate: 26.5%
+
  -Average Monthly Charges: $64.8
+
  -Total Revenue: $16.1 Million
+ 
 
 ---
 <h2><a class="anchor" id="observation"></a>5. Detailed Observations</h2>
