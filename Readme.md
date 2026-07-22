@@ -92,7 +92,7 @@ Customer Support Enhancements
 <h2><a class="anchor" id="dashboard"></a>7. Dashboard Previews</h2>
 
 ### 1️⃣ Overall Customer Dashboard
-![All Customer Dashboard](Dashboard\All Customers Dashboard.jpg)
+![E-Commerce Dashboard - Summary](C:\Users\anupa\OneDrive\Desktop\Data Analyst\Capstone Project - Telecom Customer Churn Analysis\Dashboard\All Customers Dashboard.jpg)
 ### 2️⃣ Churned Customers Dashboard
 ![Churn Customer Dashboard](Dashboard\Churned Customer Overview.jpg)
 
